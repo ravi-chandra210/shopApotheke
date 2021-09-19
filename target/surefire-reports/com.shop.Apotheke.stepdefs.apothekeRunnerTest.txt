@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.shop.Apotheke.stepdefs.apothekeRunnerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 431.307 s <<< FAILURE! - in com.shop.Apotheke.stepdefs.apothekeRunnerTest
+User should observe an error message when invalid credentials are entered.(Login to Apotheke site with valid credentials)  Time elapsed: 76.566 s  <<< ERROR!
+java.lang.NullPointerException
+
